@@ -1,0 +1,8 @@
+# log-files
+.log
+
+# db-files
+*.db
+
+#folder bin
+/bin
